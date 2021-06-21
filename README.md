@@ -8,3 +8,7 @@ Backtracking -Iterativo Teniendo en mente el uso del stack, será necesario sele
 Dynamic Programming -Iterativo El primer bucle es el que nos va a seleccionar qué rama, partiendo del nodo inicial, es la que estamos calculando. Mientras que, con el segundo bucle, es con el que vamos a calcular los distintos costes y con el que vamos a ir guardando cual es el coste de cada uno de los nodos.
 
 -Recursivo Nuestro código se compone de un caso simple por tal de hacer que finalice ese bucle y sigue la dinámica de su versión iterativa. Por otro lado, debemos añadir obligatoriamente el último pilar del acueducto. Una vez pasados estos condicionales viene el bucle, con el que nos movemos por los distintos caminos de cada nodo y calculamos sus costes.
+
+
+Enlace a github:
+https://github.com/VictorMateu/practica2algoritmia.git
